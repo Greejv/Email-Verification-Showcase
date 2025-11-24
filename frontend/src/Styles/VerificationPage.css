@@ -1,0 +1,26 @@
+.verification-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    height: 100vh;
+}
+
+.verification-container {
+    position: absolute;
+    top: 35%;
+}
+
+.subtitle {
+    font-size: 4.5vh;
+    font-weight: 700;
+    margin-top: 4vh;
+    color: #2C5717;
+    text-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    margin-bottom: 0;
+}
+
+.verification-status {
+    margin-top: 0;
+}
